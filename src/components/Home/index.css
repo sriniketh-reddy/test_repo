@@ -1,0 +1,41 @@
+.home {
+  height: 100dvh;
+  font-family: 'Roboto';
+}
+.home-dis {
+  height: 90dvh;
+  display: flex;
+}
+button {
+  outline: none;
+  cursor: pointer;
+}
+.home-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 90dvh;
+  padding: 0 150px;
+}
+.home-content {
+  margin-right: 200px;
+}
+.home-heading {
+  font-size: 50px;
+}
+.home-description {
+  font-size: 30px;
+}
+.shop-now-button {
+  color: white;
+  padding: 10px;
+  width: 150px;
+  border: none;
+  font-size: 17px;
+  border-radius: 10px;
+  background-color: #0967d2;
+}
+.home-desktop-img {
+  width: 1000px;
+}

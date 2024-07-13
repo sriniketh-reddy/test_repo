@@ -1,0 +1,31 @@
+.nav {
+  display: flex;
+  flex-direction: row;
+  height: 10dvh;
+  align-items: center;
+  list-style-type: none;
+  padding: 10px 200px;
+  font-family: 'Roboto';
+}
+.logo-item {
+  flex-grow: 1;
+}
+.nav-logo {
+  width: 200px;
+}
+.link-item {
+  margin-right: 20px;
+  font-size: 20px;
+}
+.link {
+  text-decoration: none;
+  color: #1e293b;
+}
+.nav-button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 10px;
+  background-color: #0967d2;
+  color: white;
+  font-size: 17px;
+}
